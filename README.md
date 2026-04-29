@@ -4,7 +4,7 @@ A machine learning project that predicts **heatwave-driven electricity demand sp
 
 ## Demo & Live Project
 
-- 🎥 **Demo Video:** [Watch our 3-minute walkthrough](PASTE_VIDEO_LINK_HERE)  
+- 🎥 **Demo Video:** [Watch our 3-minute walkthrough](https://youtu.be/UQu0TCSYoWI)  
 - 🚀 **Live Zerve Project:** [Explore the full analysis](https://app.zerve.ai/notebook/5b20b858-5710-4802-ad05-57648709dfe2)
 
 ## Overview
